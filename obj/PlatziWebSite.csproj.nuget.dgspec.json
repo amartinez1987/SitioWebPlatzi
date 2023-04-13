@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\platzi\\Curso Practicas\\WEBAPP\\PlatziWebSite\\PlatziWebSite.csproj": {}
+    "C:\\platzi\\Curso Practicas\\WEBAPP\\SitioWebPlatzi\\PlatziWebSite.csproj": {}
   },
   "projects": {
-    "C:\\platzi\\Curso Practicas\\WEBAPP\\PlatziWebSite\\PlatziWebSite.csproj": {
+    "C:\\platzi\\Curso Practicas\\WEBAPP\\SitioWebPlatzi\\PlatziWebSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\platzi\\Curso Practicas\\WEBAPP\\PlatziWebSite\\PlatziWebSite.csproj",
+        "projectUniqueName": "C:\\platzi\\Curso Practicas\\WEBAPP\\SitioWebPlatzi\\PlatziWebSite.csproj",
         "projectName": "PlatziWebSite",
-        "projectPath": "C:\\platzi\\Curso Practicas\\WEBAPP\\PlatziWebSite\\PlatziWebSite.csproj",
+        "projectPath": "C:\\platzi\\Curso Practicas\\WEBAPP\\SitioWebPlatzi\\PlatziWebSite.csproj",
         "packagesPath": "C:\\Users\\anibal.martinez\\.nuget\\packages\\",
-        "outputPath": "C:\\platzi\\Curso Practicas\\WEBAPP\\PlatziWebSite\\obj\\",
+        "outputPath": "C:\\platzi\\Curso Practicas\\WEBAPP\\SitioWebPlatzi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
